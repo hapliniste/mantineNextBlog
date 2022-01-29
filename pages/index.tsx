@@ -16,6 +16,8 @@ export default function HomePage() {
           this guide
         </Anchor>
         . To get started edit index.tsx file.
+
+        IT IS EDITED!
       </Text>
     </>
   );
